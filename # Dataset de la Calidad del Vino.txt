@@ -1,0 +1,26 @@
+# Dataset de la Calidad del Vino
+
+El dataset de la calidad del vino contiene información de análisis fisicoquímicos los cuales contribuyen al criterio de un vino de buena o mala calidad en la escala de ‘3’ a ‘8’, siendo el valor numérico menor el que corresponde a ‘mala calidad’ y ‘8’ a ‘buena calidad’.
+
+## Objetivo
+
+Este ejercicio permitirá aplicar conceptos como la selección de características, preprocesamiento de datos, entrenamiento y evaluación de modelos de clasificación, y análisis de resultados mediante métricas y visualizaciones.
+
+## Categorías Fisicoquímicas
+
+El dataset está constituido por las siguientes categorías fisicoquímicas del vino:
+- Acidez fija
+- Acidez volátil
+- Ácido cítrico
+- Azúcar residual
+- Cloruros
+- Dióxido de azufre libre
+- Dióxido de azufre total
+- Densidad
+- pH
+- Sulfatos
+- Alcohol
+
+## Modelo
+
+Este proyecto fue desarrollado con el modelo Random Forest Desicion que ofrece mejor generalización y maneja bien tanto datos categóricos como numéricos.
